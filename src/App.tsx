@@ -22,7 +22,7 @@ function App() {
                 <ProfileCard
                     name="Ethan Javic "
                     image={ethan}
-                    description="Ethan Javic is a tech enthusiast who's still trying to break into the tech industry. The journey hasn't been void of challenges. "
+                    description="Ethan Javic is a tech enthusiast who's still trying to break into the tech industry. "
                 />
             </div>
         </div>
