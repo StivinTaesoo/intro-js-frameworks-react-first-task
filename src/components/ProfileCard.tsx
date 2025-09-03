@@ -15,10 +15,11 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
             <div className="image_container">
                 <img src={image} alt={`${name}'s image`} />
             </div>
-            <div className="profile-text">
+            <div className="profile_text">
                 <h3>{name}</h3>
                 <p>{description}</p>
             </div>
+            <button>Follow</button>
         </div>
     );
 };
