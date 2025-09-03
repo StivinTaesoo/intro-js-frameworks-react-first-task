@@ -21,8 +21,9 @@ This React application showcases a collection of profile cards displaying inform
 
 ## 📸 Screenshot
 
-![App Preview](./src/assets/react-assignment.png)
+<img width="1147" height="538" alt="Screenshot 2025-09-03 at 11-57-57 My First React App" src="https://github.com/user-attachments/assets/c7029d32-6c82-4441-8906-b34448a41789" />
 _Profile Cards App showing three example profiles_
+
 
 ## 📁 Project Structure
 
